@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: dadSitting
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -23,7 +23,7 @@ AnimationClip:
       value: {fileID: 2693886139439095873, guid: 9b445b8e15615e143beae2a743cc6dbb, type: 3}
     - time: 0.33333334
       value: {fileID: 6068680771852241506, guid: 9b445b8e15615e143beae2a743cc6dbb, type: 3}
-    - time: 0.73333335
+    - time: 0.75
       value: {fileID: 2693886139439095873, guid: 9b445b8e15615e143beae2a743cc6dbb, type: 3}
     attribute: m_Sprite
     path: 
@@ -43,6 +43,7 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
     pptrCurveMapping:
     - {fileID: 2693886139439095873, guid: 9b445b8e15615e143beae2a743cc6dbb, type: 3}
     - {fileID: 6068680771852241506, guid: 9b445b8e15615e143beae2a743cc6dbb, type: 3}
@@ -52,7 +53,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.75
+    m_StopTime: 0.76666665
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

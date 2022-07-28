@@ -27,4 +27,17 @@ public class MakeVisible : MonoBehaviour
             Inn2 = false;
         }
     }
+    // void OnCollisionEnter(Collision collision){
+    //     if (collision.gameObject.name == "chair")
+    //     {
+            
+    //     }
+
+    //     //Check for a match with the specific tag on any GameObject that collides with your GameObject
+    //     if (collision.gameObject.tag == "MyGameObjectTag")
+    //     {
+            
+    //     }
+    // }
+        
 }
